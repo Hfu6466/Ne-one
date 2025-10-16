@@ -1,0 +1,5 @@
+{
+  "name": "Number Extractor from Images and PDFs",
+  "description": "An application to upload images, screenshots, or PDF files and extract all 10-digit phone numbers. Users can then export the extracted numbers as CSV, PDF, or VCF (contact) files.",
+  "requestFramePermissions": []
+}
